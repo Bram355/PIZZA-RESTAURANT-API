@@ -1,8 +1,7 @@
 Pizza Restaurant API
 
-This is a RESTful API built with Flask that simulates a simple pizza restaurant backend system. It allows users to view restaurants and pizzas, and to associate pizzas with restaurants through a join model `RestaurantPizza`. This project uses the MVC architecture and SQLAlchemy ORM with a SQLite or PostgreSQL database.
+This is a RESTful API built with Flask that simulates a simple pizza restaurant backend system. It allows users to view restaurants and pizzas, and to associate pizzas with restaurants through a join model `RestaurantPizza`. 
 
----
 
 features
 
